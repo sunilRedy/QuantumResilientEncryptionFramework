@@ -1,0 +1,14 @@
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/core/CMakeFiles/encryption.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/core/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/core/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/api/CMakeFiles/api_server.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/api/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/api/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/auth/CMakeFiles/auth.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/auth/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/auth/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/tests/CMakeFiles/test_security.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/tests/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/QuantumResilientEncryptionFramework/build/tests/CMakeFiles/rebuild_cache.dir
